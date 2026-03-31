@@ -5,7 +5,7 @@ venv/
 dataset/
 
 # Processed data output
-data/
+
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
