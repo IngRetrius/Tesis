@@ -1,7 +1,8 @@
 # Virtual environment
 venv/
 
-# Dataset files (too large for git, ~9 GB)
+# Dataset files (too large for git/LFS — 2 files exceed GitHub's 2GB/file LFS limit)
+# See DATASET_SOURCES.md for filenames and where to redownload them.
 dataset/
 
 # Processed data output
